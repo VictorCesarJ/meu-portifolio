@@ -1,0 +1,9 @@
+.hero {
+    background-image: url('imagem\ teste.jpg');
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
